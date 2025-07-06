@@ -2,6 +2,7 @@
 
 class  Film
 {
+    // Promoted Property
     public function __construct(
         public readonly string $judul,
         public readonly string  $genre,
