@@ -17,6 +17,6 @@ $reference = $person->sayHello(...);
 
 $reference("Adi"); // Hello Adi, my name is Ukhasyah
 
+// Bisa juga
 $ref2 =  strtolower(...);
-
 echo $ref2("HALO");

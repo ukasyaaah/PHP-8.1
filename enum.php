@@ -25,6 +25,8 @@ enum Kelamin: string implements Hi
     case Wedok = "Nyonya";
     const UNKNOWN = "Unkonwn";
 
+  
+
     // Enum Method
     function sayHi()
     {
